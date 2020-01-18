@@ -1,0 +1,23 @@
+html {
+    background-image: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5)), url(./media/pozadina.jpeg);
+    background-size: cover;
+}
+
+#pitanje {
+    padding-bottom: 5px;
+}
+
+#odgovor {
+    padding-top: 5px;
+}
+
+#kviz {
+    padding: 20px 20px 20px 20px;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: -170px;
+    top: 50%;
+    left: 50%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
